@@ -1,4 +1,4 @@
-<h1 align="left">JunChuan Here</h1>
+<h1 align="left">Hi JunChuan</h1>
 <h3 align="left">Soon to be Data Scientist</h3>
 
 - 🔭 I’m currently working on **deep learning projects.**
@@ -9,16 +9,16 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/junchuan15?tab=repositories](https://github.com/junchuan15?tab=repositories)
 
-- 📫 Reach me through **jcquah2@gmail.com**
+- 📫 Email me at **jcquah2@gmail.com**
 
-- 📄 Profile [https://www.linkedin.com/in/quah-jun-chuan-908448269/](https://www.linkedin.com/in/quah-jun-chuan-908448269/)
+- 📄 Find me at [https://www.linkedin.com/in/quah-jun-chuan-908448269/](https://www.linkedin.com/in/quah-jun-chuan-908448269/)
 
 - ⚡ Fun fact **Definitely not a coding enthusiast.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/quah-jun-chuan-908448269/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="30" style="margin-right: 10px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="30" style="margin-right: 20px;" />
   </a>
   <a href="https://instagram.com/junchuan_15" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="30" />
