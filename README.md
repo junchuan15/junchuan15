@@ -1,4 +1,4 @@
-<h1 align="left">Hi JunChuan</h1>
+<h1 align="left">Bello</h1>
 <h3 align="left">Soon to be Data Scientist</h3>
 
 - 🔭 I’m currently working on **deep learning projects.**
