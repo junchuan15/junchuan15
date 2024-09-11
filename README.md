@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/quah-jun-chuan-908448269/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junchuan_15" height="38" width="40" />
 </a>
-<a href="https://instagram.com/junchuan_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="junchuan_15" height="30" width="40" /></a>
+<a href="https://instagram.com/junchuan_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="junchuan_15" height="28" width="38" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
