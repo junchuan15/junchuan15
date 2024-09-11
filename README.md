@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm JunChuan</h1>
 <h3 align="center">Soon to be Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=junchuan15&label=Profile%20views&color=0e75b6&style=flat" alt="junchuan15" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junchuan15" alt="junchuan15" /></a> </p>
-
 - 🔭 I’m currently working on **deep learning projects.**
 
 - 🌱 I’m currently learning **to control my mental stability during coding. :')**
@@ -33,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junchuan15&show_icons=true&locale=en" alt="junchuan15" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junchuan15&" alt="junchuan15" /></p>
+
