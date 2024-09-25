@@ -37,14 +37,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=junchuan15&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
-<h3 align="left">Projects:</h3>
-<p align="left">
-  <a href="https://github.com/junchuan15/deep-learning-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=junchuan15&repo=deep-learning-project" alt="Deep Learning Project" />
-  </a>
-  <a href="https://github.com/junchuan15/another-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=junchuan15&repo=another-project" alt="Another Project" />
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=junchuan15&theme=radical" alt="GitHub Trophies" />
 </p>
 
 
