@@ -38,8 +38,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=junchuan15&label=Profile%20views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=junchuan15&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
 
 
 
