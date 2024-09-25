@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=junchuan15&theme=radical" alt="GitHub Trophies" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,flutter,django,mysql,mongodb" alt="Skills" />
 </p>
 
 
