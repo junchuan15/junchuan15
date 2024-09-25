@@ -38,7 +38,6 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,flutter,django,mysql,mongodb" alt="Skills" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=junchuan15&theme=radical" alt="GitHub Activity Graph" />
 </p>
-
 
