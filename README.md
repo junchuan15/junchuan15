@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **Definitely not a coding enthusiast.**
 
-## Languages and Tools
+## Languages and Tools 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,html,css,django,flask,firebase,react,nextjs,javascript,tailwind,nodejs,flutter,dart,pytorch,tensorflow,mysql,mongodb,sqlite,opencv,figma,git,github" alt="Languages and Tools"/>
@@ -23,11 +23,11 @@
 
 ## Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=junchuan15&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=junchuan15&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junchuan15&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junchuan15&theme=nightowl" alt="GitHub Streak Stats" />
 </p>
 
 ## Let's Connect
