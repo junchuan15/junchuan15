@@ -1,6 +1,6 @@
 <h1 align="left">Hey, I'm Jc 😃</h1>
 <h3 align="left">Soon to be Data Scientist</h3>
-<hr>
+
 - 💻 I’m currently working on **deep learning projects.**
 
 - 🌱 I’m currently learning **to control my mental stability during coding. :')**
@@ -15,8 +15,7 @@
 
 - ⚡ Fun fact **Definitely not a coding enthusiast.**
 
-<hr>
-<h3 align="center">Languages and Tools:</h3>
+## Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,django,flutter,firebase,react,nextjs,java,javascript,python,pytorch,tensorflow,mysql,mongodb,nodejs,gcp,pandas,tailwind,sqlite,scikit-learn,opencv" alt="Languages and Tools"/>
