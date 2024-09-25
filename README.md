@@ -1,5 +1,4 @@
-<h1 align="left">Hey, I'm Jc 😃</h1>
-<h3 align="left">Soon to be Data Scientist</h3>
+<h2 align="left">Hey, I'm Jc 😃, Soon to be Data Scientist</h2>
 
 - 💻 I’m currently working on **deep learning projects.**
 
@@ -18,7 +17,7 @@
 ## Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,django,flutter,firebase,react,nextjs,java,javascript,python,pytorch,tensorflow,mysql,mongodb,nodejs,gcp,pandas,tailwind,sqlite,scikit-learn,opencv" alt="Languages and Tools"/>
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,django,flask,firebase,react,nextjs,javascript,tailwind,nodejs,flutter,dart,pytorch,tensorflow,mysql,mongodb,sqlite,opencv,figma,git,github" alt="Languages and Tools"/>
   </a>
 </p>
 
