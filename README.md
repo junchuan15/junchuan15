@@ -1,7 +1,7 @@
-<h1 align="left">Bello, I'm Jc 😃</h1>
+<h1 align="left">Hey, I'm Jc 😃</h1>
 <h3 align="left">Soon to be Data Scientist</h3>
 
-- 🔭 I’m currently working on **deep learning projects.**
+- 💻 I’m currently working on **deep learning projects.**
 
 - 🌱 I’m currently learning **to control my mental stability during coding. :')**
 
@@ -37,5 +37,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=junchuan15&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
+<h3 align="left">Projects:</h3>
+<p align="left">
+  <a href="https://github.com/junchuan15/deep-learning-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=junchuan15&repo=deep-learning-project" alt="Deep Learning Project" />
+  </a>
+  <a href="https://github.com/junchuan15/another-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=junchuan15&repo=another-project" alt="Another Project" />
+  </a>
+</p>
 
 
