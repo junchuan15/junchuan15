@@ -21,6 +21,7 @@
   </a>
 </p>
 
+## Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=junchuan15&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
@@ -29,14 +30,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=junchuan15&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/quah-jun-chuan-908448269/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="30" style="margin-right: 50px;" />
-  </a>
-  <a href="https://instagram.com/junchuan_15" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="30" />
-  </a>
-</p>
+## Let's Connect
+<p align="center">
+<a href="https://www.linkedin.com/in/quah-jun-chuan-908448269/" target="_blank" style="text-decoration: none;">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Profile" height="40" width="40" style="margin-right: 20px;" />
+</a>
+
+
 
 
