@@ -38,7 +38,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=junchuan15&layout=compact&theme=radical" alt="Wakatime Stats" />
+  <img src="https://komarev.com/ghpvc/?username=junchuan15&label=Profile%20views&color=blue&style=flat" alt="Profile Views" />
 </p>
+
 
 
