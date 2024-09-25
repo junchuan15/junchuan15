@@ -37,4 +37,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=junchuan15&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
+<h3 align="left">Quote of the Day:</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
+
 
