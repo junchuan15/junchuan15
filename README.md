@@ -38,6 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=junchuan15&theme=radical" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=junchuan15&layout=compact&theme=radical" alt="Wakatime Stats" />
 </p>
+
 
